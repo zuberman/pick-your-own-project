@@ -7,7 +7,7 @@ Build an app of your choice.
 - Feel free to use an external API to provide additional functionality to your app. Use an API that either does not have any authentication or uses API keys.
 - This is an opportunity to practice the parts you have challenging so far and improve your understanding of them.
 - Use pen and paper to draw a diagram of the webpage layout before starting to code. Have a think about what components you will need in advance.
-- Use prop-types and where stateless components where appropriate.
+- Use prop-types and stateless components where appropriate.
 - Try to use Sass to create a separate stylesheet for each component.
 - Try to add some unit testing. Some parts will be easier to test than others, focus on those first.
 - Think about how to organise your data in advance
