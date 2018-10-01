@@ -36,12 +36,12 @@ Build an app of your choice.
 
 ## Default option
 
-If you struggling to think of a project to build. Try to create a Top Trumps using the [Star Wars API](https://swapi.co/) which allows one user to play the game against the computer.
+If you are struggling to think of a project to build. Try to create a Top Trumps using the [Star Wars API](https://swapi.co/) which allows one user to play the game against the computer.
 
 - On load, fetch all vehicles from [https://swapi.co/api/vehicles/](https://swapi.co/api/vehicles/) end point.
 - Randomise the cards and deal half to player and half to computer.
 - Display top card to user
 - Allow user to pick an attribute from their card such as `cost_in_credits`, `length`, `max_atmosphering_speed`, `crew`, `passengers`, `cargo_capacity`.
 - If the value for chosen attribute is higher on the user's card than on computer's top card, they win the computer's card and it should be taken from computer's deck and added to the bottom of the user's deck. If the attribute is higher on the computer's top card, then user's card should be taken from the user's deck and added to the bottom of computer's deck.
-- Game continues until until either user of computer has all the cards.
+- Game continues until either user or computer has all the cards.
 - Implement some features of your choosing.
